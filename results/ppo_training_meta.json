@@ -1,0 +1,128 @@
+[
+  {
+    "window": 1,
+    "train_period": "2006-01-01 to 2010-12-31",
+    "val_period": "2011-01-01 to 2011-12-31",
+    "test_period": "2012-01-01 to 2012-12-31",
+    "best_seed": 929893138,
+    "val_sharpe": 0.3289786903717409,
+    "model_path": "models/ppo_window_1.zip"
+  },
+  {
+    "window": 2,
+    "train_period": "2007-01-01 to 2011-12-31",
+    "val_period": "2012-01-01 to 2012-12-31",
+    "test_period": "2013-01-01 to 2013-12-31",
+    "best_seed": 691925801,
+    "val_sharpe": 0.6312479797733193,
+    "model_path": "models/ppo_window_2.zip"
+  },
+  {
+    "window": 3,
+    "train_period": "2008-01-01 to 2012-12-31",
+    "val_period": "2013-01-01 to 2013-12-31",
+    "test_period": "2014-01-01 to 2014-12-31",
+    "best_seed": 839678430,
+    "val_sharpe": 2.0555332822677306,
+    "model_path": "models/ppo_window_3.zip"
+  },
+  {
+    "window": 4,
+    "train_period": "2009-01-01 to 2013-12-31",
+    "val_period": "2014-01-01 to 2014-12-31",
+    "test_period": "2015-01-01 to 2015-12-31",
+    "best_seed": 1292217855,
+    "val_sharpe": 1.535575005583719,
+    "model_path": "models/ppo_window_4.zip"
+  },
+  {
+    "window": 5,
+    "train_period": "2010-01-01 to 2014-12-31",
+    "val_period": "2015-01-01 to 2015-12-31",
+    "test_period": "2016-01-01 to 2016-12-31",
+    "best_seed": 1796379902,
+    "val_sharpe": -0.02360098615304979,
+    "model_path": "models/ppo_window_5.zip"
+  },
+  {
+    "window": 6,
+    "train_period": "2011-01-01 to 2015-12-31",
+    "val_period": "2016-01-01 to 2016-12-31",
+    "test_period": "2017-01-01 to 2017-12-31",
+    "best_seed": 1967386537,
+    "val_sharpe": 1.5573781547514816,
+    "model_path": "models/ppo_window_6.zip"
+  },
+  {
+    "window": 7,
+    "train_period": "2012-01-01 to 2016-12-31",
+    "val_period": "2017-01-01 to 2017-12-31",
+    "test_period": "2018-01-01 to 2018-12-31",
+    "best_seed": 1288249436,
+    "val_sharpe": 2.8234024864244924,
+    "model_path": "models/ppo_window_7.zip"
+  },
+  {
+    "window": 8,
+    "train_period": "2013-01-01 to 2017-12-31",
+    "val_period": "2018-01-01 to 2018-12-31",
+    "test_period": "2019-01-01 to 2019-12-31",
+    "best_seed": 1991900164,
+    "val_sharpe": 0.6468017987660322,
+    "model_path": "models/ppo_window_8.zip"
+  },
+  {
+    "window": 9,
+    "train_period": "2014-01-01 to 2018-12-31",
+    "val_period": "2019-01-01 to 2019-12-31",
+    "test_period": "2020-01-01 to 2020-12-31",
+    "best_seed": 1282340117,
+    "val_sharpe": 2.1758262748532515,
+    "model_path": "models/ppo_window_9.zip"
+  },
+  {
+    "window": 10,
+    "train_period": "2015-01-01 to 2019-12-31",
+    "val_period": "2020-01-01 to 2020-12-31",
+    "test_period": "2021-01-01 to 2021-12-31",
+    "best_seed": 1340850676,
+    "val_sharpe": 0.39186046851346457,
+    "model_path": "models/ppo_window_10.zip"
+  },
+  {
+    "window": 11,
+    "train_period": "2016-01-01 to 2020-12-31",
+    "val_period": "2021-01-01 to 2021-12-31",
+    "test_period": "2022-01-01 to 2022-12-31",
+    "best_seed": 1701023514,
+    "val_sharpe": 2.1033005135925786,
+    "model_path": "models/ppo_window_11.zip"
+  },
+  {
+    "window": 12,
+    "train_period": "2017-01-01 to 2021-12-31",
+    "val_period": "2022-01-01 to 2022-12-31",
+    "test_period": "2023-01-01 to 2023-12-31",
+    "best_seed": 797823279,
+    "val_sharpe": 0.4402776621493669,
+    "model_path": "models/ppo_window_12.zip"
+  },
+  {
+    "window": 13,
+    "train_period": "2018-01-01 to 2022-12-31",
+    "val_period": "2023-01-01 to 2023-12-31",
+    "test_period": "2024-01-01 to 2024-12-31",
+    "best_seed": 829514448,
+    "val_sharpe": 1.2796346956499505,
+    "model_path": "models/ppo_window_13.zip"
+  },
+  {
+    "window": 14,
+    "train_period": "2019-01-01 to 2023-12-31",
+    "val_period": "2024-01-01 to 2024-12-31",
+    "test_period": "2025-01-01 to 2025-12-31",
+    "best_seed": 304912344,
+    "val_sharpe": 1.064505223890571,
+    "model_path": "models/ppo_window_14.zip"
+  }
+]

@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+matplotlib
+seaborn
+torch
+gymnasium
+stable-baselines3>=2.3.0
+pyportfolioopt>=1.5.5
+scikit-learn
+scipy
