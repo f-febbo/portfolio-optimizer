@@ -1,6 +1,6 @@
 # DRL Portfolio Optimizer
 
-Replication of [Sood et al. (2023)](https://arxiv.org/abs/2401.01843), comparing a PPO-based reinforcement learning agent against Mean-Variance Optimization (MVO) for sector ETF portfolio allocation.
+Replication of [Sood et al. (2023)](https://arxiv.org/abs/2602.17098), comparing a PPO-based reinforcement learning agent against Mean-Variance Optimization (MVO) for sector ETF portfolio allocation.
 
 Trained and backtested across 14 sliding one-year windows (2012-2025) on the 11 S&P 500 sector ETFs.
 
